@@ -1,0 +1,19 @@
+General Aptitude : R.S. Agarwal.
+																	
+Engineering Mathematics 
+
+Network Theory : Fundamentals of Electric Circuits by Mathew Sadiku.
+
+Digital Circuits : Digital Logic and Computer Design by M. Morris Mano.
+
+Electronic Devices : Semiconductor Physics and Devices by Donald Neamen.
+
+Analog Circuits : Electronic Devices and Circuit Theory by Robert Boylestad.
+
+Signals and Systems by A. Anand Kumar.
+
+Control System : Automatic Control Systems by Benjamin Kuo.
+
+Communication : Communication Systems by Simon Haykin.
+
+Electromagnetics : Principles of Electromagnetics by Mathew Sadiku.
